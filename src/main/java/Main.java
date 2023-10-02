@@ -17,7 +17,7 @@ public class Main {
 
         }
 
-        // implementeer een for loop die de twee arrays combineert. De output moet zijn:
+        // implementeer een for loop die de twee arrays combineert. De output moet zijn:git status
         // oneSjaak
         // twoSjimmy
         // threeSjonny
